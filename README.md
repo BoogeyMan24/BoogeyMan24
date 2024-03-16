@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 # Hi, I'm Boogey!
 I have been coding for a long time now...
 
-# Current Projects:
+## Current Projects:
 - Personal Website
 
 
-## Past Projects:
+### Past Projects:
 - Sciecne Fair Website (Node + Express)
 - Personal Website (old)
 - Gravity Simulator V2 (OpenGl)
@@ -29,9 +29,9 @@ I have been coding for a long time now...
 
 
 
-# 😎 My Skill:
+## 😎 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts,py,java,svelte,nodejs,npm,mongodb,discordjs,express,unity,git,github,idea,raspberrypi,vscode&perline=10)](https://skillicons.dev)
-## 😳 I Have Dablled in:
+### 😳 I Have Dablled in:
 [![I have dablled in](https://skillicons.dev/icons?i=rust,kotlin,mongodb,npm,raspberrypi,unity,vscode&perline=3)](https://skillicons.dev)
 
 😬
