@@ -31,7 +31,7 @@ I have been coding for a long time now...
 
 ## 😎 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,py,java,svelte,nodejs,npm,mongodb,discordjs,express,unity,git,github,idea,vscode,raspberrypi&perline=10)](https://skillicons.dev)
-### 😳 I Have Dablled in:
+### 😳 I Have Dabbled in:
 [![I have dablled in](https://skillicons.dev/icons?i=rust,kotlin&perline=10)](https://skillicons.dev)
 
 😬
