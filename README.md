@@ -30,9 +30,9 @@ I have been coding for a long time now...
 
 
 ## 😎 My Skills:
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts,py,java,svelte,nodejs,npm,mongodb,discordjs,express,unity,git,github,idea,raspberrypi,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts,py,java,svelte,nodejs,npm,mongodb,discordjs,express,unity,git,github,idea,vscode,raspberrypi&perline=10)](https://skillicons.dev)
 ### 😳 I Have Dablled in:
-[![I have dablled in](https://skillicons.dev/icons?i=rust,kotlin,mongodb,npm,raspberrypi,unity,vscode&perline=3)](https://skillicons.dev)
+[![I have dablled in](https://skillicons.dev/icons?i=rust,kotlin&perline=10)](https://skillicons.dev)
 
 😬
 ![BoogeyMan24's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoogeyMan24&show_icons=true&theme=tokyonight)
