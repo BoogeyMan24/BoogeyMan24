@@ -22,7 +22,7 @@ I have been coding for a long time now...
 
 
 ### Past Projects:
-- Sciencee Fair Website (Node + Express)
+- Science Fair Website (Node + Express)
 - Personal Website (old)
 - Gravity Simulator V2 (OpenGl)
 - Gravity Simulator V1 (SDL2)
