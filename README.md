@@ -21,7 +21,7 @@ I have been coding for a long time now...
 - Personal Website
 
 
-### Past Projects:
+### Some of My Past Projects:
 - Science Fair Website (Node + Express)
 - Personal Website (old)
 - Gravity Simulator V2 (OpenGl)
