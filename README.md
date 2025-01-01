@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 I have been coding for a long time now...
 
 ## Current Projects:
-- Personal Website
-
+- Solar System Simulator V3 (3D Vulkan + GLFW)
 
 ### Some of My Past Projects:
+- Personal Website
 - Science Fair Website (Node + Express)
 - Personal Website (old)
-- Gravity Simulator V2 (OpenGl)
-- Gravity Simulator V1 (SDL2)
+- Gravity Simulator V2 (2D OpenGl + GLFW)
+- Gravity Simulator V1 (2D SDL2)
 
 
 
