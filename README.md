@@ -30,6 +30,6 @@ I have been coding for a long time now...
 
 
 ## 😎 My Skills:
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,tailwind,js,ts,py,java,svelte,nodejs,nginx,npm,postgresql,sql,mongodb,discordjs,express,unity,git,github,idea,vscode,raspberrypi&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,tailwind,js,ts,py,java,svelte,nodejs,nginx,npm,postgresql,mongodb,discordjs,express,unity,git,github,idea,vscode,raspberrypi&perline=10)](https://skillicons.dev)
 ### 😳 I Have Dabbled in:
 [![I have dablled in](https://skillicons.dev/icons?i=rust,kotlin&perline=10)](https://skillicons.dev)
