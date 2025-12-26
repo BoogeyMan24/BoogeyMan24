@@ -1,5 +1,3 @@
-### Yea I am gamer... 😎
-
 <!--
 **BoogeyMan24/BoogeyMan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Boogey!
+# Hey!
 I have been coding for a long time now...
 
 ## Current Projects:
